@@ -1,1 +1,6 @@
-    NOTES SCJP
+		######################################
+		#		    NOTES SCJP				 #
+		######################################
+
+This file contains remarks, and some importants point when preparing my SCJP
+certificate
